@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: simpsons-coding-challenge
+Implementation-Version: 1.0
+Built-By: system-a
+Implementation-Vendor-Id: com.citiBank
+Build-Jdk: 1.8.0_181
+Implementation-URL: http://projects.spring.io/spring-boot/simpsons-cod
+ ing-challenge/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
